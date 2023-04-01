@@ -1,0 +1,5 @@
+pygmentsUseClasses = false
+pygmentsCodefence = true
+
+[markup]
+  [markup.highlight]

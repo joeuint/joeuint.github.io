@@ -1,0 +1,23 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'joqwer'
+theme = 'hax'
+copyright = "© 2023-{year} joqwer. All rights reserved."
+
+pygmentsUseClasses = false
+pygmentsCodefence = true
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    noHl = false
+    tabWidth = 4
