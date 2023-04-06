@@ -6,55 +6,52 @@
 
 body {
     display: flex;
+    max-width: 52rem;
+    font-size: 0.9em;
+    margin: 0 auto;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #272a36;
-    color: #f8f8f2;
-    margin: 0;
-    margin-left: 3rem;
-    margin-right: 3rem;
-    padding: 0;
+    background-color: #1e1e2e;
+    color: #cdd6f4;
+    padding: 0 1rem;
     font-weight: 300;   
 }
 
 a {
-    color: #8be9fd;
+    color: #89dceb;
     text-decoration: none;
 }
 
 a:hover {
-    color: #f1fa8c;
+    color: #f9e2af;
     text-decoration: underline;
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 1.5em;
+    color: #cba6f7;
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 1.3em;
+    color: #a6e3a1;
 }
 
 h3 {
-    font-size: 1.4rem;
+    font-size: 1.2em;
+    color: #89dceb;
 }
 
 h4 {
-    font-size: 1.3rem;
-}
-
-h5 {
-    font-size: 1.2rem;
-}
-
-h6 {
-    font-size: 1.1rem;
+    font-size: 1.1em;
+    color: #f5c2e7;
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    overflow-x: hidden;
 }
 
 .navbar>ul {
@@ -71,9 +68,13 @@ h6 {
     margin-top: auto;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    color: #d4d4d7;
+    color: #a6adc8;
 }
 
 .listDate {
     margin-right: 2rem;
+}
+
+.nav-brand {
+    color: #cdd6f4;
 }
