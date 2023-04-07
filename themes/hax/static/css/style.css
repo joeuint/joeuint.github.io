@@ -54,12 +54,12 @@ h4 {
     overflow-x: hidden;
 }
 
-.navbar>ul {
+.nav-items {
     display: flex;
     list-style: none;
 }
 
-.navbar>ul>li {
+.nav-items>a {
     margin-left: 1.25rem;
     font-size: larger;
 }
@@ -77,4 +77,32 @@ h4 {
 
 .nav-brand {
     color: #cdd6f4;
+}
+
+.hamburger {
+    visibility: hidden;
+    display: none;
+    background-color: transparent;
+    border: 0
+}
+
+#dropdown {
+    text-align: center;
+    box-shadow: 0 0 0 100vmax #11111b;
+    clip-path: inset(0 -100vmax);   
+    background-color: #11111b;
+    padding: 1rem;
+    font-size: 1.2em;
+    display: none;
+}
+
+@media (max-width:500px) {
+    .nav-items {
+        display: none;
+    }
+
+    .hamburger {
+        visibility: visible;
+        display: flex;
+    }
 }
