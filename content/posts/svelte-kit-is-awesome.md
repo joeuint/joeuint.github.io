@@ -1,7 +1,7 @@
 ---
 title: "SvelteKit is Awesome!"
 date: 2023-04-06T18:29:10-04:00
-draft: true
+draft: false
 ---
 
 I recently decided to finally try out a meta-framework. I chose SvelteKit as:
