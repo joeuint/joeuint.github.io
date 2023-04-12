@@ -20,11 +20,13 @@ body {
 a {
     color: #89dceb;
     text-decoration: none;
+    transition: color 0.25s ease;
 }
 
 a:hover {
     color: #f9e2af;
     text-decoration: underline;
+    transition: color 0.25s ease;
 }
 
 h1 {
