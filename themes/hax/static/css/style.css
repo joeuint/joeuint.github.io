@@ -7,7 +7,7 @@
 body {
     display: flex;
     max-width: 52rem;
-    font-size: 0.9em;
+    font-size: 1.1em;
     margin: 0 auto;
     flex-direction: column;
     min-height: 100vh;
@@ -30,22 +30,22 @@ a:hover {
 }
 
 h1 {
-    font-size: 1.5em;
+    font-size: 1.6em;
     color: #cba6f7;
 }
 
 h2 {
-    font-size: 1.3em;
+    font-size: 1.4em;
     color: #a6e3a1;
 }
 
 h3 {
-    font-size: 1.2em;
+    font-size: 1.3em;
     color: #89dceb;
 }
 
 h4 {
-    font-size: 1.1em;
+    font-size: 1.2em;
     color: #f5c2e7;
 }
 
