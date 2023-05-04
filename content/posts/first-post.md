@@ -4,7 +4,7 @@ date: 2023-03-31T21:10:06-04:00
 draft: false
 ---
 
-[Hugo](https://qgohugo.io) is an amazing piece of software which allows you to easily generate static sites using the power of markdown. I was shocked when I found out about it. You can even make your own themes which I decided to do. Here is how I set it up.
+[Hugo](https://gohugo.io) is an amazing piece of software which allows you to easily generate static sites using the power of markdown. I was shocked when I found out about it. You can even make your own themes which I decided to do. Here is how I set it up.
 
 ## 1. Installation
 
