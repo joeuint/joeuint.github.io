@@ -1,8 +1,8 @@
-baseURL = ''
+baseURL = 'josephumana.com'
 languageCode = 'en-us'
 title = 'joqwer'
 theme = 'hax'
-copyright = "© 2023-{year} joqwer. All rights reserved."
+copyright = "© 2023-{year} Joseph Umana. All rights reserved."
 
 pygmentsUseClasses = false
 pygmentsCodefence = true
