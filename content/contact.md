@@ -4,4 +4,4 @@ title: 'Contact'
 
 ## Github
 
-https://github.com/joqwent
+https://github.com/joseph-umana
