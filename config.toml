@@ -21,3 +21,6 @@ pygmentsCodefence = true
     noClasses = false
     noHl = false
     tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe= true
