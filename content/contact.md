@@ -4,7 +4,7 @@ title: 'Contact'
 
 ## Github
 
-https://github.com/joseph-umana
+https://github.com/joeuint
 
 ## Email
 
